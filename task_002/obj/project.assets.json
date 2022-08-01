@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vladc\\Desktop\\GB\\Bootcamp\\task_001\\lesson_01.csproj",
-      "projectName": "lesson_01",
-      "projectPath": "C:\\Users\\vladc\\Desktop\\GB\\Bootcamp\\task_001\\lesson_01.csproj",
+      "projectUniqueName": "C:\\Users\\vladc\\Desktop\\GB\\Bootcamp\\task_002\\task_002.csproj",
+      "projectName": "task_002",
+      "projectPath": "C:\\Users\\vladc\\Desktop\\GB\\Bootcamp\\task_002\\task_002.csproj",
       "packagesPath": "C:\\Users\\vladc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vladc\\Desktop\\GB\\Bootcamp\\task_001\\obj\\",
+      "outputPath": "C:\\Users\\vladc\\Desktop\\GB\\Bootcamp\\task_002\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vladc\\AppData\\Roaming\\NuGet\\NuGet.Config"
